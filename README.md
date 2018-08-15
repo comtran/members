@@ -32,7 +32,7 @@ IF 2016. COMTRAN 1st generation.
 | SPOJ          | epicurean | 0              |
 | CodeSignal    | epicurean | 14             |
 
-#### Wisnu Adi Nurcahyo
+#### Ganesha Danu Enastika 
 
 IF 2017. COMTRAN 1st generation.
 
@@ -42,8 +42,8 @@ IF 2017. COMTRAN 1st generation.
 
 | Online Judge | Username  | Latest Rating |
 |--------------|-----------|---------------|
-| HackerRank   | blinfoldking | 1599.55             |
-| Codeforces   | GaneshaDanu | -          |
+| HackerRank   | blinfoldking | 1599.55    |
+| Codeforces   | GaneshaDanu | -           |
 | CodeChef     | blinfoldking | -          |
 | TLX          | technomancer | -          |
 
