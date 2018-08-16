@@ -1,36 +1,26 @@
 # COMTRAN Members
 
-COMTRAN official member listing.
+COMTRAN (Competitive Traveling Nerd) is a competitive programming community
+that solely for practicing programming and becomes the best coder in Telkom
+University or even the world. Hence, we need an actual data as a measure.
+That's why this repository present.
+
+As for the format, please follow [this](details/epicurean.md) as a reference.
+
+**Note**: Check its commit date in the file first for the data credibility.
+There is a huge possibility to be outdated.
 
 ## Active Members
 
-#### Wisnu Adi Nurcahyo
+Sort this list alphabetically.
 
-IF 2016. COMTRAN 1st generation.
+1. [Wisnu Adi Nurcahyo](details/epicurean.md)
 
-**CodeSignal Coding Score**: 701
+---
 
-###### Rated Online Judge
+## Old Data
 
-| Online Judge | Username  | Latest Rating |
-|--------------|-----------|---------------|
-| HackerRank   | epicurean | -             |
-| Codeforces   | epicurean | 1237          |
-| CodeChef     | epicurean | 1462          |
-| TLX          | epicurean | 1723          |
-| HackerEarth  | epicurean | -             |
-| LeetCode     | epicurean | 1185          |
-| CS Academy   | epicurean | -             |
-
-###### Other Online Judge
-
-| Online Judge  | Username  | Problem Solved |
-|---------------|-----------|----------------|
-| Open Kattis   | epicurean | 10             |
-| E-Olymp       | epicurean | 12             |
-| Project Euler | epicurean | 3              |
-| SPOJ          | epicurean | 0              |
-| CodeSignal    | epicurean | 14             |
+Please update based on the latest format.
 
 #### Ganesha Danu Enastika 
 
@@ -53,6 +43,4 @@ IF 2017. COMTRAN 1st generation.
 |---------------|-----------|----------------|
 | SPOJ          | blinfoldking | 0              |
 | CodeSignal    | blinfoldking | 119             |
-
-
 
