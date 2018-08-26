@@ -11,13 +11,14 @@ COMTRAN 1st generation. IF2016. CodeSignal highest Coding Score is **712**.
 
 | Online Judge Name | Peak Rating |
 |-------------------|-------------|
-| [TLX][1]          | 1723        |
+| [TLX][1]          | 1872        |
 | [CodeChef][2]     | 1553        |
 | [CodeForces][3]   | 1387        |
 | [LeetCode][4]     | 1185        |
 | [HackerRank][5]   | -           |
 | [HackerEarth][6]  | -           |
 | [CS Academy][7]   | -           |
+| [AOJ][14]         | -           |
 
 [1]: https://tlx.toki.id/profiles/epicurean
 [2]: https://www.codechef.com/users/epicurean
@@ -26,17 +27,19 @@ COMTRAN 1st generation. IF2016. CodeSignal highest Coding Score is **712**.
 [5]: https://www.hackerrank.com/epicurean
 [6]: https://www.hackerearth.com/@epicurean
 [7]: https://csacademy.com/user/epicurean
+[14]: https://onlinejudge.u-aizu.ac.jp/status/users/epicurean
 
 ## Other Online Judges
 
 | Online Judge Name   | Problem Solved |
 |---------------------|----------------|
-| [CodeSignal][8]     | 34             |
+| [CodeSignal][8]     | 86             |
 | [E-Olymp][9]        | 12             |
 | [Open Kattis][10]   | 10             |
 | [Project Euler][11] | 3              |
 | [SPOJ][12]          | -              |
 | [UVa uHunt][13]     | -              |
+| [COJ][15]           | -              |
 
 [8]: https://app.codesignal.com/profile/epicurean
 [9]: https://www.e-olymp.com/en/users/epicurean
@@ -44,6 +47,7 @@ COMTRAN 1st generation. IF2016. CodeSignal highest Coding Score is **712**.
 [11]: https://projecteuler.net/profile/epicurean.png
 [12]: https://www.spoj.com/users/epicurean/
 [13]: https://uhunt.onlinejudge.org/id/978776
+[15]: http://coj.uci.cu/user/useraccount.xhtml?username=epicurean
 
 ## Online Judge Student Ranks
 
